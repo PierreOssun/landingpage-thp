@@ -1,7 +1,9 @@
 # Notre Readme 
 ## Le site:
 1. Design yeah
+
 ..1. Page principale 
+
 * On a voulu faire quelque chose d'authentique, nous avons donc pris Adrien comme modèle! Le codeur à capuche, emblème parfait pour représenter THP. 
 * Une police un peu futuriste
 * Du jaune pour contraster avec l'image foncée mais pas trop non plus pour éviter l'effet moutarde
@@ -13,26 +15,38 @@
 * Un footer avec mentions légales parce que c'est obligé hehe , un lien linkedin et facebook pour montrer la force de notre belle communauté !
 * La structure : une image attirante en haut; les fonctionnalités au centre (boutons) ; informations supplémentaires en bas
 ---> Degré d'importance et on passe du superflu au contenu
-..2. Page de présentation du peer-learning :deux_femmes_par_la_main:
+
+..2. Page de présentation du peer-learning 
+
 * Deux paragraphes principaux : présentation du peer-learning et exécution à THP
 * Un fond sobre et moderne, épuré qui met en valeur le texte
 * Des titres en jaune pour le rappel
+
 ..3. Page dédiée au code 
+
 * Même modèle, deux paragraphes : un expliquant l'intérêt d'apprendre à coder et de le généraliser , le deuxième présentant la méthode d'apprentissage
+
 ..4. Page abordant le programme 
+
 * Un astucieux formulaire où l'on rentre le nom et l'adresse email, qui inscrit directement à la newsletter ( MailChimp)
 * Dans cet email, présentation de THP et un lien pour être redirigé vers le vrai site
+
 2. Comment a-t-on fait le code? 
+
 2 loustiques sur le front : Adrien et Pierre
 * Procédure de pas à pas
 * Testing sur deux ordis pour la même tâche
 * Se décharger un peu et Matthieu qui finit la partie Programmation, Tina qui fait le texte de la partie Code
 * Bootstrap à l'appui
+
 2 loustiques sur le back-end : Tina et Matthieu
+
 * Utiliser devise
 * Créer le formulaire d'inscription automatique à la newsletter grâce à l'API MailChimp ( après obtention des données nom  et  email)
 * Répartition des tâches : un qui fait le call to action l'autre l'acquisition
+
 3. Stratégies d'acquisition 
+
 * Cible : étudiant ou actif/diplômé en reconversion
 * Un canal d'acquisition : les réseaux sociaux
 Tentative de posts facebook dans des groupes grâce à l'API
@@ -41,9 +55,13 @@ Utiliser hunter : récupère toutes les adresse email des personne d'une entrepr
 L'extension Chrome grouply pour extraire les profils facebook dans les groupes étudiants
 Utiliser le bot facebook de messenger pour envoyer des messages privés aux étudiants
 Scrapping des mairies du haut-rhin et bas-rhin plus envoi des emails
+
 4. Metrics :histogramme:
+
 On a pas encore de visites
+
 5. Technique agile 
+
 * Gestion des équipes et tâches : deux duos
 Bonne répartition des tâches, on a pu s'entraider, toucher à tout et se décharger d'une tâche en cas de besoin
 * Mauvaise gestion du temps ou manque d'efficacité, surtout sur la partie acquisition
