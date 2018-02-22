@@ -15,13 +15,13 @@ gem 'jbuilder'
 gem 'bootstrap-sass'
 gem 'mailchimp-api'
 gem 'gibbon'
-gem 'json'
 gem 'jquery-turbolinks'
+gem 'json', github: 'flori/json', branch: 'v1.8'
 
 
 group :development, :test do
   #gem 'sqlite3'
-  gem 'pg', '0.20.0'
+
   gem 'byebug',  '9.0.6', platform: :mri
   gem 'rspec-rails'
   gem 'guard-rspec'
@@ -45,4 +45,8 @@ group :test do
   gem 'capybara'
   gem 'poltergeist'
   gem 'shoulda-matchers'
+end
+
+group :production do
+  gem 'pg', '0.20.0'
 end
