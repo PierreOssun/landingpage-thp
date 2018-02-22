@@ -17,7 +17,7 @@ gem 'mailchimp-api'
 gem 'gibbon'
 gem 'json'
 gem 'jquery-turbolinks'
-gem 'jquery-rails'
+
 
 group :development, :test do
   #gem 'sqlite3'
