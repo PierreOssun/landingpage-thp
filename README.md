@@ -2,7 +2,7 @@
 ## Le site:
 1. Design yeah
 
-..1. Page principale 
+1.1 Page principale 
 
 * On a voulu faire quelque chose d'authentique, nous avons donc pris Adrien comme modèle! Le codeur à capuche, emblème parfait pour représenter THP. 
 * Une police un peu futuriste
@@ -16,17 +16,17 @@
 * La structure : une image attirante en haut; les fonctionnalités au centre (boutons) ; informations supplémentaires en bas
 ---> Degré d'importance et on passe du superflu au contenu
 
-..2. Page de présentation du peer-learning 
+1.2 Page de présentation du peer-learning 
 
 * Deux paragraphes principaux : présentation du peer-learning et exécution à THP
 * Un fond sobre et moderne, épuré qui met en valeur le texte
 * Des titres en jaune pour le rappel
 
-..3. Page dédiée au code 
+1.3 Page dédiée au code 
 
 * Même modèle, deux paragraphes : un expliquant l'intérêt d'apprendre à coder et de le généraliser , le deuxième présentant la méthode d'apprentissage
 
-..4. Page abordant le programme 
+1.4. Page abordant le programme 
 
 * Un astucieux formulaire où l'on rentre le nom et l'adresse email, qui inscrit directement à la newsletter ( MailChimp)
 * Dans cet email, présentation de THP et un lien pour être redirigé vers le vrai site
