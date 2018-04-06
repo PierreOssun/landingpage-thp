@@ -1,6 +1,8 @@
-# Notre Readme 
+ #### Heroku : https://landing-page-strasbourg-thp.herokuapp.com/
+
+# Projet : Une journée pour creer ta landing page
 ## Le site:
-1. Design yeah
+1. Design 
 
 1.1 Page principale 
 
